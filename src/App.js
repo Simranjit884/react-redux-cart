@@ -1,11 +1,11 @@
 import "./App.css";
-import Header from "./components/Header";
+import Timer from "./components/Timer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
     <div>
-      <Header />
+      <Timer />
     </div>
   );
 }
